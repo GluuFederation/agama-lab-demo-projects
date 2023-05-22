@@ -1,0 +1,13 @@
+{
+    "first_steps": {
+        "projectName": "first_steps",
+        "description": "An introduction to Agama world",
+        "type": "community",
+        "author": "GluuFederation",
+        "version": "1.0.0",
+        "authorWebsite": "https://github.com/GluuFederation/agama-lab-demo-projects",
+        "githubUri": "https://github.com/GluuFederation/agama-lab-demo-projects",
+        "license": "MIT",
+        "lastUpdated": "1684522732432"
+    }
+}
